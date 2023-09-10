@@ -1,2 +1,2 @@
 # Web
-This website template you modify to suit your needs.
+This is a web template you can modify to suit your needs.
